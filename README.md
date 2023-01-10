@@ -36,6 +36,7 @@ An awesome list of Platform Engineering
 
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/
+- Platform Engineering Reddit: https://www.reddit.com/r/platformengineering
 
 ## <span id="5">5. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
